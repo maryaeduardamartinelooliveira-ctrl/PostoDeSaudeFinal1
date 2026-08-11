@@ -97,7 +97,8 @@ li {
 }
 header img {
   width=350px
-  align-items: center;
+   display: flex;
    justify-content: space-between;
+   align-items: center;
 }  
   
