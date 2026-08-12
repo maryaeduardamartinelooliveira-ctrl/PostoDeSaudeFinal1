@@ -95,7 +95,7 @@ ul {
 li {
   margin-bottom: 8px;
 }
-header img {
+div {
    display: flex;
    justify-content: space-between;
    align-items: center;
