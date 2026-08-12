@@ -36,6 +36,7 @@ main {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
+  text-align: center;
 }
 .card {
   background-color: #E3F2FD;
@@ -103,6 +104,4 @@ li {
   width:350px;
    justify-content: center;
 }  
-  .saude{
-    text-align: center;
-{
+ 
